@@ -1,0 +1,7 @@
+*.pyc
+djreact/static/bundles/local/
+node_modules/
+venv
+*.pyc
+staticfiles
+.env
